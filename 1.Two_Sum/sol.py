@@ -1,3 +1,5 @@
+# think it in a backward way
+
 import pdb
 class Solution:
     def twoSum(self, nums, target: int):
