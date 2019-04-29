@@ -1,3 +1,4 @@
+# O(n^2) brute force
 class Solution:
     def twoSum(self, nums, target: int):
     	for i, v in enumerate(nums):

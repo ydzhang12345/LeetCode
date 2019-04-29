@@ -1,5 +1,5 @@
 # think it in a backward way
-
+# O(n) python hash list
 import pdb
 class Solution:
     def twoSum(self, nums, target: int):
